@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<cars xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <car make="Opel" model="Astra" travelled-distance="516628215">
+    <parts>
+      <part name="Sunroof Glass" price="205.24" />
+      <part name="Front Left Side Inner door handle" price="77.99" />
+      <part name="Distributor" price="7.99" />
+    </parts>
+  </car>
+  <car make="Opel" model="Astra" travelled-distance="516628215">
+    <parts>
+      <part name="Sunroof Glass" price="205.24" />
+      <part name="Front Left Side Inner door handle" price="77.99" />
+      <part name="Distributor" price="7.99" />
+    </parts>
+  </car>
+  <car make="BMW" model="F20" travelled-distance="487897422">
+    <parts>
+      <part name="Rims" price="4020.99" />
+      <part name="Overflow tank" price="1200.99" />
+      <part name="Bonnet/hood" price="1001.34" />
+      <part name="Door seal" price="444.99" />
+      <part name="Air blower" price="140.99" />
+      <part name="Radiator gasket" price="140.99" />
+      <part name="Valve cover" price="130.99" />
+      <part name="Rear Right Side Door Glass" price="100.90" />
+      <part name="Sunroof Rail" price="100.25" />
+      <part name="Front clip" price="100.00" />
+      <part name="Rear Left Side Inner door handle" price="93.99" />
+    </parts>
+  </car>
+  <car make="BMW" model="F20" travelled-distance="487897422">
+    <parts>
+      <part name="Rims" price="4020.99" />
+      <part name="Overflow tank" price="1200.99" />
+      <part name="Bonnet/hood" price="1001.34" />
+      <part name="Door seal" price="444.99" />
+      <part name="Air blower" price="140.99" />
+      <part name="Radiator gasket" price="140.99" />
+      <part name="Valve cover" price="130.99" />
+      <part name="Rear Right Side Door Glass" price="100.90" />
+      <part name="Sunroof Rail" price="100.25" />
+      <part name="Front clip" price="100.00" />
+      <part name="Rear Left Side Inner door handle" price="93.99" />
+    </parts>
+  </car>
+  <car make="BMW" model="E67" travelled-distance="476830509">
+    <parts>
+      <part name="Cowl screen" price="1500.34" />
+      <part name="Bonnet/hood" price="1001.34" />
+      <part name="Front Left Side Outer door handle" price="999.99" />
+      <part name="Front Right Side Inner door handle" price="100.99" />
+      <part name="Sunroof Rail" price="100.25" />
+      <part name="Piston" price="94.99" />
+      <part name="Poppet valve" price="88.99" />
+      <part name="Front Left Side Inner door handle" price="77.99" />
+      <part name="Water pump" price="44.93" />
+      <part name="Rear Right Side Window motor" price="22.99" />
+    </parts>
+  </car>
+</cars>
